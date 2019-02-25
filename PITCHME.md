@@ -14,11 +14,11 @@
 ---
 @title[Agenda]
 
-@snap[west text-16 text-bold text-italic text-orange span-50]
+@snap[west text-orange span-50]
   Agenda
 @snapend
 
-@snap[east text-white span-45]
+@snap[east span-45]
 @ol[split-screen-list text-08](false)
 - Kursus start	kl. 17.00
 - Sandwichpause	kl. 18.15 – 18.45
