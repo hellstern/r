@@ -1,4 +1,4 @@
----?image=img/desk_2.jpg
+---?image=img/desk-min.jpg&opacity=40%
 @title[Introduktion]
 
 
