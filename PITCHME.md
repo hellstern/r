@@ -3,7 +3,8 @@
 
 
 @snap[west text-25 text-bold]
-  R Programmering
+  R<br> 
+  Programmering
 @snapend
 
 @snap[south-west byline text-06]
