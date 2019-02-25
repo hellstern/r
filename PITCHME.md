@@ -2,12 +2,12 @@
 @title[Introduktion]
 
 
-@snap[west text-25 text-bold text-white]
-GitPitch<br>*R Programmering*
+@snap[west text-25 text-bold]
+  R Programmering
 @snapend
 
-@snap[south-west byline text-white text-06]
-Tue Hellstern
+@snap[south-west byline text-06]
+  Tue Hellstern
 @snapend
 
 ---
