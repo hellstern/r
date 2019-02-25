@@ -1,4 +1,4 @@
----?image=img/desk_small.jpg&opacity=40%
+---?image=img/defender_small.jpg&opacity=40%
 @title[Introduktion]
 
 
