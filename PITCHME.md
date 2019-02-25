@@ -1,4 +1,4 @@
----?image=img/desk.jpg
+---?image=img/desk_2.jpg
 @title[Introduktion]
 
 
