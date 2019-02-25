@@ -1,17 +1,17 @@
----?image=img/defender_small.jpg&opacity=40%
+---?image=img/defender_small.jpg&opacity=40
 @title[Introduktion]
 
 
 @snap[west text-25 text-bold text-white]
-GitPitch<br>*The Template*
+GitPitch<br>*R Programmering*
 @snapend
 
 @snap[south-west byline text-white text-06]
-The Fastest Way From Idea To Presentation.
+Tue Hellstern
 @snapend
 
 ---
-@title[Slide Markdown]
+@title[Agenda]
 
 ### Each slide in this presentation is provided as a *template*.
 
