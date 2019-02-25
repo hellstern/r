@@ -3,8 +3,8 @@
 
 
 @snap[west text-25 text-bold]
-  R<br> 
-  Programmering
+  R<br>
+  Programming
 @snapend
 
 @snap[south-west byline text-06]
@@ -13,6 +13,26 @@
 
 ---
 @title[Agenda]
+
+@snap[west text-16 text-bold text-italic text-orange span-50]
+  Agenda
+@snapend
+
+@snap[east text-white span-45]
+@ol[split-screen-list text-08](false)
+- Kursus start	kl. 17.00
+- Sandwichpause	kl. 18.15 – 18.45
+- Kaffe/Te – Kagepause	kl. 19.45 – 20.00
+- Spørgsmål	kl. 21:00
+- Slut	kl. 21.30
+@olend
+@snapend
+
+@snap[south-west template-note text-gray]
+Split-screen heading and list body template.
+@snapend
+
+---
 
 ### Each slide in this presentation is provided as a *template*.
 
