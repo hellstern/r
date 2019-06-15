@@ -32,7 +32,7 @@
 
 @title[Agenda]
 
-@snap[west span-50] @olsplit-screen-list text-08
+@snap[west span-50]
 
 - RStudio
   - Installation
@@ -51,7 +51,7 @@
   - Kommentarer
   - Hjælp
 
-@snap[east span-50] @olsplit-screen-list text-08
+@snap[east span-50]
 
 - Data
   - Opret data
