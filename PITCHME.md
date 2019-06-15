@@ -20,9 +20,13 @@
 @snap[east span-75]
 @ol[split-screen-list text-08](false)
   Kursus start	kl. 17.00
+ 
   Sandwichpause	kl. 18.15 – 18.45
+  
   Kaffe/Te – Kagepause	kl. 19.45 – 20.00
+  
   Spørgsmål	kl. 21:00
+  
   Slut	kl. 21.30
 @olend
 @snapend
