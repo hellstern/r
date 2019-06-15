@@ -34,39 +34,41 @@
 
 @snap[west span-50]
 
-- RStudio
-  - Installation
-  - Introduktion til brugerfladen
+**RStudio**
+- Installation
+- Introduktion til brugerfladen
 
-- Syntaks
-  - Pakker
-  - Syntax
-  - Objekter
-  - Vektor
-  - Factor
-  - Data Frame
-  - Funktioner
-  - Manglende værdier
-  - Logiske operatorer
-  - Kommentarer
-  - Hjælp
+**Syntaks**
+- Pakker
+- Syntax
+- Objekter
+- Vektor
+- Factor
+- Data Frame
+- Funktioner
+- Manglende værdier
+- Logiske operatorer
+- Kommentarer
+- Hjælp
 
 @snap[east span-50]
 
-- Data
+**Data**
   - Opret data
   - Indlæs data
   - CSV
   - Excel
 
-- Plot
+**Plot**
   - Oprettelse af plot
-  -Demo af forskellige muligheder
+  - Demo af forskellige muligheder
 
-- Eksempler
+**Eksempler**
   - Du skal prøve selv
   
   @snap[south span-100]
 Det er et introduktions seminar
 Der vil være mange ”ting” vi ikke kan nå på 4 timer
 Det er ikke et statistik kursus
+
+---
