@@ -69,7 +69,10 @@
 **Eksempler**
   - Du skal prøve selv
   @ulend
-  @snap[south span-100]
+
+---
+
+@snap[south-west span-100]
 @size[1](Det er et introduktions seminar)
 @size[1](Der vil være mange ”ting” vi ikke kan nå på 4 timer)
 @size[1](Det er ikke et statistik kursus)
