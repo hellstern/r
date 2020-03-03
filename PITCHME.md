@@ -64,6 +64,46 @@ Tue Hellstern
 
 ---
 
+@title[Kursus indhold]
+
+@snap[north-west span-50 text-07]
+- **RStudio**
+    - Installation
+    - Introduktion til brugerfladen
+
+- **Syntaks**
+    - Pakker
+    - Syntax
+    - Objekter
+    - Vektor
+    - Factor
+    - Data Frame
+    - Funktioner
+    - Manglende værdier
+    - Logiske operatorer
+    - Kommentarer
+    - Hjælp
+
+@snap[north-east span-50 text-07]
+- **RStudio**
+    - Installation
+    - Introduktion til brugerfladen
+
+- **Syntaks**
+    - Pakker
+    - Syntax
+    - Objekter
+    - Vektor
+    - Factor
+    - Data Frame
+    - Funktioner
+    - Manglende værdier
+    - Logiske operatorer
+    - Kommentarer
+    - Hjælp
+
+---
+
 Det er et introduktions seminar
 
 Der vil være mange ”ting” vi **ikke** kan nå på 4 timer
