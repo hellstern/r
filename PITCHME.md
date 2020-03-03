@@ -2,7 +2,7 @@
 @title[Introduktion]
 @snap[east span-50 text-center]
 
-R programering seminar
+R programmering seminar
 
 Tue Hellstern
 
