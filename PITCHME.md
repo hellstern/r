@@ -30,7 +30,7 @@ Tue Hellstern
 
 @title[Agenda]
 
-@snap[north-west span-50]
+@snap[north-west span-50 text-07]
 - **RStudio**
 - Installation
 - Introduktion til brugerfladen
@@ -48,7 +48,7 @@ Tue Hellstern
 - Kommentarer
 - Hjælp
 
-@snap[north-east span-50]
+@snap[north-east span-50 text-07]
  - **Data**
  - Opret data
  - Indlæs data
