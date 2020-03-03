@@ -32,7 +32,7 @@ logo-position : top-left
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "R Seminar :: Tue Hellstern"
 
 #
 # Highlight (Code) Setting
@@ -58,6 +58,6 @@ transition : none
 # Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "GitPitch - The Quickstart Template"
-description : "High-utility markdown slide templates for GitPitch presentation authors."
+title : "R Seminar :: Tue Hellstern"
+description : "R Seminar - IDA - Tue Hellstern"
 thumbnail : https://gitpitch.com/gpimg/the-template-thumb.jpg
