@@ -2,24 +2,10 @@
 @title[Introduktion]
 @snap[east span-50 text-center]
 
-Python seminar
+R programering seminar
 
 Tue Hellstern
 
-@snapend
-
----
-
-@title[Introduktion]
-
-
-@snap[west text-25 text-bold]
-  R<br>
-  Programming
-@snapend
-
-@snap[south-west byline text-06]
-  Tue Hellstern
 @snapend
 
 ---
