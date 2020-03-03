@@ -28,7 +28,7 @@ Tue Hellstern
 
 ---
 
-@title[Agenda]
+@title[Kursus indhold]
 
 @snap[north-west span-50 text-07]
 - **RStudio**
@@ -49,17 +49,17 @@ Tue Hellstern
     - Hjælp
 
 @snap[north-east span-50 text-07]
- - **Data**
+- **Data**
     - Opret data
     - Indlæs data
     - CSV
     - Excel
 
- - **Plot**
+- **Plot**
     - Oprettelse af plot
     - Demo af forskellige muligheder
 
- - **Eksempler**
+- **Eksempler**
     - Du skal prøve selv
 
 ---
