@@ -61,3 +61,8 @@ transition : none
 title : "R Seminar :: Tue Hellstern"
 description : "R Seminar - IDA - Tue Hellstern"
 thumbnail : https://gitpitch.com/gpimg/the-template-thumb.jpg
+
+#
+# Kode linje nummer
+#
+code-line-numbers : true
