@@ -1,3 +1,15 @@
+---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
+@title[Introduktion]
+@snap[east span-50 text-center]
+
+Python seminar
+
+Tue Hellstern
+
+@snapend
+
+---
+
 @title[Introduktion]
 
 
