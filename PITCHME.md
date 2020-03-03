@@ -32,35 +32,35 @@ Tue Hellstern
 
 @snap[north-west span-50 text-07]
 - **RStudio**
-- Installation
-- Introduktion til brugerfladen
+    - Installation
+    - Introduktion til brugerfladen
 
 - **Syntaks**
-- Pakker
-- Syntax
-- Objekter
-- Vektor
-- Factor
-- Data Frame
-- Funktioner
-- Manglende værdier
-- Logiske operatorer
-- Kommentarer
-- Hjælp
+    - Pakker
+    - Syntax
+    - Objekter
+    - Vektor
+    - Factor
+    - Data Frame
+    - Funktioner
+    - Manglende værdier
+    - Logiske operatorer
+    - Kommentarer
+    - Hjælp
 
 @snap[north-east span-50 text-07]
  - **Data**
- - Opret data
- - Indlæs data
- - CSV
- - Excel
+    - Opret data
+    - Indlæs data
+    - CSV
+    - Excel
 
-- **Plot**
-- Oprettelse af plot
-- Demo af forskellige muligheder
+ - **Plot**
+    - Oprettelse af plot
+    - Demo af forskellige muligheder
 
-- **Eksempler**
-- Du skal prøve selv
+ - **Eksempler**
+    - Du skal prøve selv
 
 ---
 
