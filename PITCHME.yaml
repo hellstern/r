@@ -22,13 +22,6 @@ theme : simple
 theme-override : template/css/PITCHME.css
 
 #
-# Logo Setting
-# https://gitpitch.com/docs/settings/logo
-#
-logo : img/r_logo.png
-logo-position : top-left
-
-#
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
@@ -66,3 +59,24 @@ thumbnail : https://gitpitch.com/gpimg/the-template-thumb.jpg
 # Kode linje nummer
 #
 code-line-numbers : true
+
+#
+# theme templet
+#
+theme : template
+
+# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-START
+theme            : template
+theme-background : [ "#FFF" ]
+theme-headline   : [ "Raleway", "#5289F7", "none", "#5289F7", "100", "120", "15" ]
+theme-byline     : [ "Raleway", "#111111", "none", "#111111", "100", "110", "15" ]
+theme-text       : [ "Ubuntu", "#1C1C1C", "none", "#1C1C1C", "100", "100", "15" ]
+theme-links      : [ "#5289F7", "#5254F7" ]
+theme-code       : [ "Source Code Pro", "110", "130" ]
+highlight        : ir-black
+theme-controls   : [ "#484848" ]
+theme-margins    : [ "0", "15px" ]
+logo             : r/assets/img/r_logo.png
+logo-position    : top-left
+layout           : center
+# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-END
