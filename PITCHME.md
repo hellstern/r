@@ -24,7 +24,10 @@ Tue Hellstern
 @olend
 @snapend
 
----?color=linear-gradient(100deg, #567AD2 50%, #567AD2 50%)
+---
+
+@title[Kursus indhold]
+
 @snap[north-west span-30]
 **RStudio**
 @ol[split-screen-list text-05](false)
@@ -32,6 +35,7 @@ Tue Hellstern
 - Introduktion til brugerfladen
 
 @olend
+<br><br>
 **Syntaks**
 @ol[split-screen-list text-05](false)
 - Pakker
@@ -57,13 +61,13 @@ Tue Hellstern
 - Excel
 @olend
 
-**Plot**
+<br><br>**Plot**
 @ol[split-screen-list text-05 text-left](false)
 - Oprettelse af plot
 - Demo af forskellige muligheder
 @olend
 
-**Eksempler**
+<br><br>**Eksempler**
 @ol[split-screen-list text-05 text-left](false)
 - Du skal selv prøve
 @olend
@@ -71,7 +75,9 @@ Tue Hellstern
 
 ---
 
-Det er et introduktions seminar
+@title[Seminar]
+
+Dette er et introduktions seminar!
 
 Der vil være mange ”ting” vi **ikke** kan nå på 4 timer
 
@@ -327,7 +333,22 @@ devtools::install_github("tidyverse/readr")
 
 @title[Plot standard]
 
+@snap[north-west span-40 text-12]
+Standard R plot commands
+@snapend
+
+@ol[split-screen-list text-07 text-left](false)
+- plot()
+- boxplot()
+- hist()
+- barplot()
+- stripchart()
+@olend
+@snapend
+
 +++
+
+
 
 @title[Plot ggplot2]
 
